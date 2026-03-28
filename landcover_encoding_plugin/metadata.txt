@@ -4,7 +4,7 @@ qgisMinimumVersion=3.22
 description=Assigns each polygon the dominant and subdominant land cover class from an underlying raster with proportional coverage percentages. Includes a built-in land cover legend (34 classes) with optional custom CSV override.
 version=1.0.0
 author=Santhosh M
-email=msanthosh1855@outlook.in
+email=santhoshlab31@gmail.com
 about=A processing-based plugin for land cover classification of segmented polygons. For each polygon in a vector layer, the tool extracts raster pixel values, computes the majority (dominant) and second-majority (subdominant) classes, and resolves class labels from a built-in legend or a user-supplied CSV. Invalid geometries are repaired automatically. CRS mismatches are handled on the fly.
 
 tracker=https://github.com/Santhosh-M31/landcover-encoding-plugin/issues
